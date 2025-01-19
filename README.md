@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gitsaransh
-- 👀 I’m interested in Automation Testing and Java learning
-- 🌱 I’m currently learning User Acceptance Testing
-- 💞️ I’m looking to collaborate on Java Selenium Automation
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently working as BA in UAT
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me ; Say Hi
 - 😄 Pronouns: Saransh
 - ⚡ Fun fact: I am a B.com graduate
