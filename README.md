@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gitsaransh
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in vibe coding and a solo developer
 - 🌱 I’m currently working as BA in UAT
-- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me ; Say Hi
 - 😄 Pronouns: Saransh
 - ⚡ Fun fact: I am a B.com graduate
