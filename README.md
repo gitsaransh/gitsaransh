@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitsaransh
-- 👀 I’m interested in vibe coding and a solo developer
+- 👀 I’m a solo developer and interested in vibe coding 
 - 🌱 I’m currently working as BA in UAT
 - 📫 How to reach me ; Say Hi
 - 😄 Pronouns: Saransh
